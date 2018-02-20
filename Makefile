@@ -1,4 +1,4 @@
-THEOS_BUILD_DIR = build
+TARGET = iphone:latest:5.0
 
 include theos/makefiles/common.mk
 
